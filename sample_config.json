@@ -1,0 +1,5 @@
+{
+    "username": "user@example.com",
+    "apikey": "yourApiToken",
+	"url": "https://example.atlassian.net"
+}
